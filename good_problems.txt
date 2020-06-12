@@ -1,0 +1,5 @@
+Introductory Problems:
+- number spiral
+- two knights
+- creating strings I
+- apple division
