@@ -1,5 +1,9 @@
 Introductory Problems:
 - number spiral
+- trailing zeros
 - two knights
 - creating strings I
 - apple division
+- concert tickets, traffic lights (need BST, implemented as set in C++)
+- movie festival
+- playlist
